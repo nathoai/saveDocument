@@ -1,0 +1,9 @@
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Core\obj\Debug\Project1.Core.csprojResolveAssemblyReference.cache
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Core\bin\Debug\config.xml
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Core\bin\Debug\Project1.Core.dll.config
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Core\bin\Debug\Project1.Core.dll
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Core\bin\Debug\Project1.Core.pdb
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Core\bin\Debug\Project1.Domain.dll
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Core\bin\Debug\Project1.Domain.pdb
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Core\obj\Debug\Project1.Core.dll
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Core\obj\Debug\Project1.Core.pdb

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <DataSource>DESKTOP-3IHVETD\SQLEXPRESS</DataSource>
+  <Catalog>project1</Catalog>  
+</config>

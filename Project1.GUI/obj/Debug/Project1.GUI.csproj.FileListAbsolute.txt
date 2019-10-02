@@ -1,0 +1,14 @@
+D:\NT\Tool dev\Project\Project1\Project1\Project1.GUI\obj\Debug\Project1.GUI.csprojResolveAssemblyReference.cache
+D:\NT\Tool dev\Project\Project1\Project1\Project1.GUI\obj\Debug\Project1.GUI.Form1.resources
+D:\NT\Tool dev\Project\Project1\Project1\Project1.GUI\obj\Debug\Project1.GUI.Properties.Resources.resources
+D:\NT\Tool dev\Project\Project1\Project1\Project1.GUI\obj\Debug\Project1.GUI.csproj.GenerateResource.Cache
+D:\NT\Tool dev\Project\Project1\Project1\Project1.GUI\obj\Debug\Project1.GUI.exe.licenses
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Build\config.xml
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Build\Project1.GUI.exe
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Build\Project1.GUI.pdb
+D:\NT\Tool dev\Project\Project1\Project1\Project1.GUI\obj\Debug\Project1.GUI.exe
+D:\NT\Tool dev\Project\Project1\Project1\Project1.GUI\obj\Debug\Project1.GUI.pdb
+D:\NT\Tool dev\Project\Project1\Project1\Project1.GUI\obj\Debug\Project1.GUI.FrmBase.resources
+D:\NT\Tool dev\Project\Project1\Project1\Project1.GUI\obj\Debug\Project1.GUI.FrmLogin.resources
+D:\NT\Tool dev\Project\Project1\Project1\Project1.GUI\obj\Debug\Project1.GUI.FrmAccount.resources
+D:\NT\Tool dev\Project\Project1\Project1\Project1.GUI\obj\Debug\Project1.GUI.FrmRole.resources

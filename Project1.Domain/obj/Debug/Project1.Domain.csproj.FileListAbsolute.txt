@@ -1,0 +1,4 @@
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Domain\bin\Debug\Project1.Domain.dll
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Domain\bin\Debug\Project1.Domain.pdb
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Domain\obj\Debug\Project1.Domain.dll
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Domain\obj\Debug\Project1.Domain.pdb
