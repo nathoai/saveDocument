@@ -1,0 +1,4 @@
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Utilities\bin\Debug\Project1.Utilities.dll
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Utilities\bin\Debug\Project1.Utilities.pdb
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Utilities\obj\Debug\Project1.Utilities.dll
+D:\NT\Tool dev\Project\Project1\Project1\Project1.Utilities\obj\Debug\Project1.Utilities.pdb
